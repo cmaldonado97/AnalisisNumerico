@@ -1,2 +1,0 @@
-# AnalisisNumerico
-Análisis Numérico
